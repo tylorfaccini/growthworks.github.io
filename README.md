@@ -1,5 +1,4 @@
-# Growthworksinc.github.io
+# Growthworks.github.io
 
-Welcome to Growthworks, Inc.
-
-Professional visitation monitor
+Welcome to Growthworks
+Professional visitation monitor services
